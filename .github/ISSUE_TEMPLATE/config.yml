@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Private exploit or security report"
+    url: "https://fairlinerp.uk/discord"
+    about: "Report money dupes, item dupes, permission bypasses, admin exploits, or security issues privately."
+
+  - name: "General support"
+    url: "https://fairlinerp.uk/discord"
+    about: "For support questions, player reports, ban appeals, or staff contact, use Discord instead."
